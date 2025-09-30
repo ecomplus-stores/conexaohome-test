@@ -4,17 +4,71 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "list_pages": false,
+    "title": "",
+    "list": [
+      {
+        "text": "Nossas Lojas",
+        "url": "/pages/nossas-lojas"
+      },
+      {
+        "text": "Clube Conexão - Cashback",
+        "url": "https://conexaohome.com.br/pages/clube-conexao"
+      },
+      {
+        "text": "Sobre Nós",
+        "url": "/pages/sobre-nos"
+      },
+      {
+        "text": "Formas de Pagamento",
+        "url": "/pages/pagamentos"
+      },
+      {
+        "text": "Política de Privacidade",
+        "url": "/pages/politica-de-privacidade"
+      },
+      {
+        "text": "Trocas e Devoluções",
+        "url": "/pages/politica-de-trocas-e-devolucoes"
+      },
+      {
+        "text": "Política de Entregas e Envios",
+        "url": "/pages/politicas-de-entrega"
+      },
+      {
+        "text": "Venda Corporativa",
+        "url": "https://conexaohome.com.br/pages/venda-corporativa"
+      },
+      {
+        "text": "Aluguel de Móveis",
+        "url": "https://conexaohome.com.br/pages/aluguel-de-moveis"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
-    "title": "Categorias",
-    "list": []
+    "title": "Nossas Lojas",
+    "list": [
+      {
+        "text": "Loja Santa Cecília SP: São João, 1915 - Móveis @ Estacionamento no Local @ AV. /1907, Santa Cecília",
+        "url": "https://conexaohome.com.br/pages/nossas-lojas"
+      },
+      {
+        "text": "Loja Santa Cecília SP - Decor @ AV. São João, 1915/1907, Santa Cecília",
+        "url": "https://conexaohome.com.br/pages/nossas-lojas"
+      },
+      {
+        "text": "Loja São José dos Campos - Jardim América @ AV. Dr. João Batista de Souza Soares, 311",
+        "url": "https://conexaohome.com.br/pages/nossas-lojas"
+      },
+      {
+        "text": "ACERVO CONEXÃO - Pinheiros SP @ R﻿ua Teodoro Sampaio, 1877",
+        "url": "https://conexaohome.com.br/pages/nossas-lojas"
+      }
+    ],
+    "list_categories": true
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Dúvidas? Fale conosco",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -23,19 +77,30 @@
   "stamps": [
     {
       "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection",
-      "width": 150,
-      "height": 62
+      "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/selo-reclame-aqui-14-.png",
+      "link": "https://www.reclameaqui.com.br/empresa/conexao-home-outlet/"
     }
   ],
   "payment_methods": {
-    "pix": true,
+    "bb": false,
     "visa": true,
-    "mastercard": true,
+    "boleto": false,
+    "aura": true,
+    "banrisul": false,
     "elo": true,
+    "hipercard": false,
+    "hsbc": false,
+    "bradesco": false,
+    "santander": false,
+    "mastercard": true,
+    "citibank": false,
+    "diners": true,
+    "mais": false,
     "amex": true,
-    "hipercard": true,
-    "boleto": true
+    "itau": false
   },
   "credits": ""
 }

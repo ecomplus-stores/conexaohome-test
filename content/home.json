@@ -1,47 +1,169 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Conexão Home | O Melhor da Decoração em Sua Casa",
+  "meta_description": "Aqui  na Conexão Home Você Encontra Produtos Exclusivos Para Tornar Seu Lar Mais Aconchegante e Acolhedor. Não Perca e Venha Conferir!",
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 3000,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-02-gif.gif",
+          "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf",
+          "mobile_img": "/img/uploads/banner-02-gif-mobile.gif"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/banner-01.jpg",
+          "mobile_img": "/img/uploads/banner-01-mobile.jpg",
+          "link": "https://conexaohome.com.br/linha-chestersield"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-02-13-.jpg",
+          "mobile_img": "/img/uploads/banner-02-mobile-12-.jpg",
+          "link": "https://conexaohome.com.br/moveis-de-madeira-macica-e-mdf",
+          "alt": "Madeira Maciça e Mdf"
         }
       ]
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6890ec86578b5f79547bdcb1:collections:Top de Vendas:/moveis-top-de-vendas",
+      "sort": "views",
+      "link": "https://conexaohome.com.br/moveis-top-de-vendas"
+    },
+    {
+      "type": "banners-grid",
+      "identificador": "banner-triple",
+      "banners": [
+        {
+          "img": "/img/uploads/mini-01.jpg",
+          "mobile_img": "",
+          "link": "https://conexaohome.com.br/search?term=conjunto+de+jantar",
+          "alt": "Sala de Jantar"
+        },
+        {
+          "img": "/img/uploads/mini-02.jpg",
+          "link": "https://conexaohome.com.br/sala-de-jantar/cristaleira-de-madeira",
+          "mobile_img": "",
+          "alt": "Cristaleira"
+        },
+        {
+          "img": "/img/uploads/mini-03.jpg",
+          "mobile_img": "",
+          "link": "https://conexaohome.com.br/moveis-sofa-para-sala-de-estar",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "identificador": "section-categories-banners",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios-para-cozinha.png",
+          "alt": "Acessórios para cozinha",
+          "link": "https://conexaohome.com.br/cozinha-e-mesa-posta",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/area-externa.png",
+          "link": "https://conexaohome.com.br/moveis/area-externa-e-varanda",
+          "alt": "Área Externa",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/decoracao.png",
+          "link": "https://conexaohome.com.br/decoracao",
+          "alt": "Decoração",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/exclusivos-conexao-home.png",
+          "link": "https://conexaohome.com.br/linha-exclusiva-conexao-home",
+          "alt": "Linha Exclusiva Conexão Home",
+          "mobile_img": ""
+        }
+      ]
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
+      "limit": 8,
+      "page": 1,
+      "collection_id": "63597c6073321213f8be3fb9:categories:Linha Burt:/moveis-de-madeira-macica-e-mdf",
+      "title": "Linha Burt",
       "headless": false,
-      "limit": 12,
-      "page": 1
+      "sort": "views"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_id": "645ce8ed4bd2e929c1f7a6d5:categories:Conjunto Mesa e Cadeiras:/conjunto-mesa-e-cadeiras",
+      "sort": "sales",
+      "link": "https://conexaohome.com.br/conjunto-mesa-e-cadeiras"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_id": "63f78869f4167e223c997bc6:categories:Sofá:/moveis/sofa-para-sala-de-estar",
+      "sort": "lowest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_id": "6320959a73321213f87393f9:categories:Poltrona:/poltrona",
+      "title": "Poltronas",
+      "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_id": "63208a9b73321213f87378b9:categories:Cadeira:/cadeira",
+      "title": "",
+      "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_id": "68c1d526578b5f7954a8bdb8:categories:Couro:/sofas-e-poltronas-de-couro-legitimo",
+      "title": "Couro Legítimo",
+      "sort": "news",
+      "link": ""
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "64caae6f5e606903707d6deb:collections:Cozinha:/cozinha",
+        "64b5a8ff5e6069037068109a:collections:Quem comprou:/quem-comprou"
+      ],
+      "shelfs_title": "Onde vai começar sua conexão?",
+      "sort": "views"
     }
   ]
 }
