@@ -1,17 +1,16 @@
 {
   "sort_categories": [
     "ambientes",
-    "moveis-sofa-para-sala-de-estar",
+    "moveis",
     "poltrona",
     "cadeira",
     "mesa",
     "moveis",
-    "cozinha",
+    "cozinha-e-mesa-posta",
     "decoracao",
-    "moveis-a-pronta-entrega",
-    "conjuntos-de-moveis-decoracao-e-utensilios-para-cozinha"
+    "conjunto-utensilios-para-cozinha-e-mesa-posta"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
-} 
+}
